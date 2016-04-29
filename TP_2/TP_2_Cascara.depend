@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1461894702 source:c:\documents and settings\administrador\escritorio\tp_laboratorio_2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	"funciones.h"
+
+1461894633 c:\documents and settings\administrador\escritorio\tp_laboratorio_2\funciones.h
+
+1461894719 source:c:\documents and settings\administrador\escritorio\tp_laboratorio_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	"funciones.h"
+
+1461947811 source:c:\documents and settings\administrador\escritorio\tp_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	"funciones.h"
+
+1461947596 c:\documents and settings\administrador\escritorio\tp_2\funciones.h
+
+1461947912 source:c:\documents and settings\administrador\escritorio\tp_2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	"funciones.h"
+
